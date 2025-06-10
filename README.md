@@ -1,4 +1,5 @@
 🔷 Pipeline de Dados com Databricks — Arquitetura em Camadas (Bronze, Silver e Gold)
+
 📌 Objetivo
 Este projeto tem como objetivo a construção de uma pipeline de dados ponta a ponta utilizando o Databricks, com a aplicação da arquitetura em camadas (medalhão) — Bronze, Silver e Gold —, a fim de responder a três perguntas de negócio levantadas pela área comercial:
 
